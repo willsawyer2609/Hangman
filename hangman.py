@@ -1,5 +1,5 @@
 # secret_word = list(input("Enter a word: ").lower())
-secret_word = list("i love you")
+secret_word = list("secret")
 redacted = ["_"]*len(secret_word)
 
 badguess = 0
